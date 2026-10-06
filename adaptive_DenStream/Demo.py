@@ -25,7 +25,7 @@ import matplotlib.pyplot as plt
 from matplotlib.patches import Circle
 from scipy.spatial.distance import cdist
 
-from adaptive_DenStream import DenStream
+from Adaptive_DenStream import DenStream
 
 # ===========================================================================
 # CONFIGURATION -- 
