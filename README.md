@@ -6,5 +6,5 @@
 #
 # The adaptive functionality in this implementation was
 # developed as part of my thesis and extends the original
-# DENStream logic by dynamically regulating the eps_dbscan 
+# DenStream logic by dynamically adjusting the eps_dbscan 
 # parameter of the offline phase.
